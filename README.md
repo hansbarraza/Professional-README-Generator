@@ -1,9 +1,11 @@
-# readme generator
+# README GENERATOR
 
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
   ## Description
   This project is a command line application that helps developers to easily generate a professional README file for their projects. The application prompts the user for information about the project and uses that information to generate a markdown file that follows best practices for READMEs. It includes sections for project title, description, installation, usage, license, contributing, tests, email, and GitHub username. The application also includes options to include badges and links for licenses.
+
+![Demo of README generator](./utils/README-REC.gif)
 
   ## Table of Contents
   * [Installation](#installation)
